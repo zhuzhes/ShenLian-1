@@ -33,7 +33,7 @@ def RouterOs_Query(cmd='/system/idenity',router_ip='8.8.8.8',username='azhe',pas
 try:
 
 
-    router_ip = '45.251.109.168'
+    router_ip = '198.19.1.21'
     router_port = 8728 # Use 8729 for api-ssl
     router_user = 'azhe'
     router_pass = 'sdlnet'
